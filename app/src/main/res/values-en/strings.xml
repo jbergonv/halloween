@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">halloween</string>
+    <string name="numeroSonidos">Nº of sounds</string>
+    <string name="susto">Scare me!</string>
+    <string name="ataud">Coffin</string>
+    <string name="animales">Wild Animals</string>
+    <string name="cadenas">Chains</string>
+    <string name="campana">Bell</string>
+    <string name="cristal">Broken glass</string>
+    <string name="crujido">Crack</string>
+    <string name="gato">Cat</string>
+    <string name="murcielagos">Bat</string>
+    <string name="perro">Dog</string>
+    <string name="puerta">Door</string>
+    <string name="reproducir">Play</string>
+    <string name="reproducirTodo">Play all</string>
+    <string name="errorSonidos">You must introduce a number of sounds</string>
+    <string name="maximoSonidos">Maximum number of sounds is 10</string>
+    <string name="cuentaAtrás">You need to set the time to the countdown</string>
+</resources>
